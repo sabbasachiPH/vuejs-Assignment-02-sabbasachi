@@ -6,7 +6,7 @@ import RandomTextGenerator from './components/RandomTextGenerator.vue';
 
 <template>
   <Question />
-  <div class="flex justify-between gap-2">
+  <div class="flex justify-around gap-2">
     <Calculator />
     <RandomTextGenerator />
   </div>
